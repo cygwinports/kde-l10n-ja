@@ -2,7 +2,7 @@ inherit kde4
 
 NAME="kde-l10n-ja"
 VERSION=17.08.3
-RELEASE=1
+RELEASE=2
 CATEGORY="KDE"
 SUMMARY="KDE Japanese translation files"
 DESCRIPTION="KDE Japanese translation files"
